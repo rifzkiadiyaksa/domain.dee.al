@@ -1,115 +1,23 @@
 [
 {
   "koneksi": "NS", 
-  "hostku": "@", 
-  "target": "ns1.firdausiregar.my.id" 
+  "hostku": "rifzki", 
+  "target": "ns1.hostry.com" 
+},
+{
+  "koneksi": "NS", 
+  "hostku": "rifzki", 
+  "target": "ns2.hostry.com" 
+},
+{
+  "koneksi": "NS", 
+  "hostku": "rifzki", 
+  "target": "ns3.hostry.com" 
 },
 {
   "koneksi": "NS",
-  "hostku": "@",
-  "target": "ns2.firdausiregar.my.id"
-},
-  
-{
-  "koneksi": "NS",
-  "hostku": "rilisan",
-  "target": "ns1.rilisan.my.eu.org"
-},
-
-{
-  "koneksi": "NS",
-  "hostku": "rilisan",
-  "target": "ns2.rilisan.my.eu.org"
-},
-
-{
-"koneksi": "NS",
-"hostku": "lty",
-"target": "ns41.cloudns.net"
-},
-{
-"koneksi": "NS",
-"hostku": "lty",
-"target": "ns42.cloudns.net"
-},
-
-{
-"koneksi": "NS",
-"hostku": "lty",
-"target": "ns43.cloudns.net"
-},
-{
-"koneksi": "NS",
-"hostku": "lty",
-"target": "ns44.cloudns.net"
-},
-
-{
-
-"koneksi": "NS",
-"hostku": "minilandx",
-"target": "ns1.afraid.org"
-},
-{
-"koneksi": "NS",
-"hostku": "minilandx",
-"target": "ns2.afraid.org"
-},
-{
-  "koneksi":"NS",
-  "hostku":"599",
-  "target":"ns1.he.net"
-},
-
-{
-  "koneksi":"NS",
-  "hostku":"599",
-  "target":"ns2.he.net"
-},
-
-{
-  "koneksi":"NS",
-  "hostku":"599",
-  "target":"ns3.he.net"
-},
-
-{
-  "koneksi":"NS",
-  "hostku":"599",
-  "target":"ns4.he.net"
-},
-
-
-{
-"koneksi": "NS",
-"hostku": "minilandx",
-"target": "ns3.afraid.org"
-},
-{
-"koneksi": "NS",
-"hostku": "minilandx",
-"target": "ns4.afraid.org"
-},
-{
- "koneksi": "NS",
- "hostku": "shroud",
- "target": "ns1.vercel-dns.com"
-  },
-  {
- "koneksi" : "NS",
- "hostku" : "shroud",
- "target": "ns2.vercel-dns.com"
-    },
-  {
- "koneksi": "NS",
- "hostku": "herobrine",
- "target": "ns1.vercel-dns.com"
-  },
-  {
- "koneksi" : "NS",
- "hostku" : "herobrine",
- "target": "ns2.vercel-dns.com"
-    }
-
+  "hostku": "rifzki",
+  "target": "ns4.hostry.com"
+}
 ]
   
